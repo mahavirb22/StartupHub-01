@@ -21,9 +21,12 @@ StartupHub connects founders and developers so they can collaborate on startup i
 - Skills
 - Experience
 - Portfolio
+- Github profile
+- Linkdin
 
 ### Founder Profile
 - Startup Details
+- Requirements
 
 ### Opportunities
 - Create
@@ -32,6 +35,7 @@ StartupHub connects founders and developers so they can collaborate on startup i
 
 ### Messaging
 - Chat
+- Online Meeting
 
 ## Future Scope
 
